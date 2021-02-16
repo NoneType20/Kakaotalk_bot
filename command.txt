@@ -1,0 +1,6 @@
+*정보_+_+2월 13일 출생##_=+#
+*라이브러리_+_+win32gui pyautogui##_=+#
+*stop_bot_+_+break.break##_=+#
+*명령리스트_+_+diction.list##_=+#
+
+
