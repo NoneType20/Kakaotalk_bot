@@ -1,7 +1,6 @@
 from PyKakao_class import opentalk_bot 
 
 A = opentalk_bot('양태환')
-B = opentalk_bot('Steel GGG 팬 채팅방')
 
 A.run_bot()
 
